@@ -15,12 +15,12 @@ class FirstFactorialMainClass
 
     }
 
-    static void Main()
-    {
+    //static void Main()
+    //{
 
-        // keep this function call here
-        Console.WriteLine(FirstFactorial(Console.ReadLine()));
+    //    // keep this function call here
+    //    Console.WriteLine(FirstFactorial(Console.ReadLine()));
 
-    }
+    //}
 
 }
